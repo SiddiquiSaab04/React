@@ -4,3 +4,6 @@ Create a counter component with increment/decrement buttons using useState. How 
 
 Question no. 2:
 Build a simple form with controlled inputs (name, email). How do you capture and validate the data on submit?
+
+Question no. 3:
+Explain how key works in React lists. Create a component that renders a dynamic list of items and updates it.
