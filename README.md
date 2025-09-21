@@ -14,3 +14,6 @@ Implement a toggle button that changes text between “ON” and “OFF”. How 
 
 Question no. 5:
 Build a simple TodoList component with add/delete functionality using useState.
+
+Question no. 6:
+Explain the difference between props and state with examples. Create a component where a parent passes data to a child.
