@@ -16,7 +16,7 @@ export default function ToggleBtn() {
                     toggle ? "Off" : "On"
                 }
             </button>
-            <p>{toggle ? "Button is on" : "Button is off"}</p>
+            <p>{toggle ? "Button is off" : "Button is on"}</p>
         </div>
     )
 }
